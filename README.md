@@ -27,5 +27,5 @@ Tanpa captcha, playwright, browser. Pure HTTP + TLS fingerprint chrome131.
 
 ## Contact
 
-- Telegram: [@Sev7en](https://t.me/Sev7en)
+- Telegram: [@elman14](https://t.me/elman14)
 - Channel: [@elfgank](https://t.me/elfgank)
